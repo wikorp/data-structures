@@ -1,0 +1,6 @@
+﻿  Timer.cpp
+  projectOne.cpp
+C:\Users\Wiktor\Desktop\sidzoVS\projectOne\projectOne\projectOne.cpp(331,22): warning C4101: "index": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\Wiktor\Desktop\sidzoVS\projectOne\projectOne\projectOne.cpp(392,22): warning C4101: "index": lokalna zmienna, do której nie istnieje odwołanie
+  Generowanie kodu...
+  projectOne.vcxproj -> C:\Users\Wiktor\Desktop\sidzoVS\projectOne\Debug\projectOne.exe

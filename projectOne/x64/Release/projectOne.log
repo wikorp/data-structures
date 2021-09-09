@@ -1,0 +1,14 @@
+﻿  BinarySearchTree.cpp
+C:\Users\Wiktor\Desktop\root\programing\c++_workspace\data-structures\projectOne\BinarySearchTree.cpp(197,12): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Wiktor\Desktop\root\programing\c++_workspace\data-structures\projectOne\BinarySearchTree.cpp(198,8): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+  DynamicArray.cpp
+  Heap.cpp
+  List.cpp
+  projectOne.cpp
+C:\Users\Wiktor\Desktop\root\programing\c++_workspace\data-structures\projectOne\projectOne.cpp(444,22): warning C4101: "index": lokalna zmienna, do której nie istnieje odwołanie
+  Timer.cpp
+  Trwa generowanie kodu
+  Previous IPDB not found, fall back to full compilation.
+  All 347 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Zakończono generowanie kodu
+  projectOne.vcxproj -> C:\Users\Wiktor\Desktop\root\programing\c++_workspace\data-structures\x64\Release\projectOne.exe

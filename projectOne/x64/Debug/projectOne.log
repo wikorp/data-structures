@@ -1,0 +1,4 @@
+﻿  BinarySearchTree.cpp
+C:\Users\Wiktor\Desktop\root\programing\c++_workspace\data-structures\projectOne\BinarySearchTree.cpp(197,12): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Wiktor\Desktop\root\programing\c++_workspace\data-structures\projectOne\BinarySearchTree.cpp(198,8): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+  projectOne.vcxproj -> C:\Users\Wiktor\Desktop\root\programing\c++_workspace\data-structures\x64\Debug\projectOne.exe
